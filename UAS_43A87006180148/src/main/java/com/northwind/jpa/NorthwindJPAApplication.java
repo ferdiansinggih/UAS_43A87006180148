@@ -12,7 +12,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  *
- * @author Rizuki Wahyudi
+ * @author User
  */
 @SpringBootApplication
 @EnableAutoConfiguration
